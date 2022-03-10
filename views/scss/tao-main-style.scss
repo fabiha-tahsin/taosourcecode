@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@import "inc/bootstrap";
+@import "inc/fonts";
+@import "inc/base";
+@import "inc/feedback";
+@import "inc/grid";
+@import "inc/select2";
+@import "inc/toolbars";
+@import "inc/tooltip";
+@import "inc/buttons";
+@import "inc/jquery-ui";
+@import "inc/jquery.nouislider";
+@import "inc/forms";
+@import "inc/mediaelementplayer";
+@import "inc/flex-grid";
+@import "inc/splash-modal-large";
+@import "inc/report";
+
+//TODO move it to taoItems
+#tab-items_preview {
+    display: none !important;
+}
